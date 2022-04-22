@@ -20,56 +20,50 @@ Education
 | B.S. in Molecular Biology | Chemistry | Murray State University | 2008 |
 | B.S. in Agronomy | Finance | Murray State University| 2008|
 
-Current Work and Research experience
+Current Professional Activities
 ======
-* Systems Analyst Research IT Cyberinfrastructure
-  * The Jackson Laboratory (Sept. 2021 – Present)
-* Extreme Science and Engineering Discovery Environment (XSEDE) Campus Champion
-  * The Jackson Laboratory (Sept. 2021 – Present)
+* **Systems Analyst** Research IT Cyberinfrastructure
+  * The Jackson Laboratory 
+
+* **Campus Champion** Extreme Science and Engineering Discovery Environment (XSEDE) 
+  * The Jackson Laboratory 
   * University of Mississippi Medical Center (Aug. 2019 – Aug. 2021)
-* Instructor, Software Carpentry, Library Carpentry, and Data Carpentry workshops
-  * The Carpentries (Nov 2021 – Present)
-* Guest Editor. MDPI (Dec. 2021 – Present)
+
+* **Instructor**, Software Carpentry, Library Carpentry, and Data Carpentry workshops
+  * The Carpentries 
+
+* **Guest Editor**. MDPI 
   * International Journal for Translational Medicine
 
 
 Previous Work and Research experience
 ======
-* Associate Director of Bioinformatics, Molecular and Genomics Core Facility
-  * Instructor (Faculty), Department of Pharmacology and Toxicology, School of Medicine
-  * Instructor (Faculty), Department of Data Science
-  * University of Mississippi Medical Center (Sept. 2019 – Aug. 2021)
-* XSEDE Campus Champion Fellow (2020-2021)
-  * National Center for Supercomputer Applications
+* **National Center for Supercomputer Applications**
+  * XSEDE Campus Champion Fellow (2020-2021)
   * University of Illinois at Urbana Champaign (UIUC)
-* Bioinformatician II Molecular and Genomics Core Facility
-  * University of Mississippi Medical Center (UMMC) (January 2018– September 2019)
-  * School of Medicine
-  * Department of Pharmacology and Toxicology
-* Assistant Research Professor Institute for Genomics, Biocomputing, and Biotechnology
-  * Department of Department of Biochemistry, Mol. Bio., Entomology, and Plant Path
-  * Mississippi State University (August 2016 – January 2018)
-* Faculty-Senator Division of Agriculture, Forestry, and Veterinary Medicine Faculty Senate
-  * Mississippi State University (August 2016– 2018)
-* Senior Research Associate Institute for Genomics, Biocomputing, and Biotechnology
-  * Mississippi State University (July 2011 – August 2016)
-  * -Genome and Transcriptome Assembly Projects for Agricultural Crops and Pests
-  * -Differential Expression analysis for Agricultural Crops and Pests
-  * -Work with the USDA on Corn and Cotton sequencing Projects
-* Graduate Research Assistant Life Science and Biotechnology Institute
-  * Mississippi State University (June 2011 – December 2011)
-  * -Analyze next generation sequence data
-  * -Preparation of Next generation sequencing libraries
-* Graduate Research Assistant (Plant Pathology) Department of Entomology and Plant Pathology
-  * Mississippi State University (August 2008 – June 2011)
+
+* **University of Mississippi Medical Center** (Jan. 2018 – Aug. 2021)
+  * Associate Director of Bioinformatics, Molecular and Genomics Core Facility
+  * Instructor (Faculty), Department of Pharmacology and Toxicology, School of Medicine
+  * Instructor (Faculty), Department of Data Science, School of Population Health
+  * Bioinformatician II (January 2018– September 2019)
+
+* **Mississippi State University** (August 2016 – January 2018)
+  * Assistant Research Professor Institute for Genomics, Biocomputing, and Biotechnology
+  * Assistant Research Professor Department of Department of Biochemistry, Mol. Bio., Entomology, and Plant Path
+  * Faculty-Senator Division of Agriculture, Forestry, and Veterinary Medicine Faculty Senate (August 2016– 2018)
+  * Senior Research Associate Institute for Genomics, Biocomputing, and Biotechnology (July 2011 – August 2016)
+  * Graduate Research Assistant Life Science and Biotechnology Institute (June 2011 – December 2011)
+  * Graduate Research Assistant (Plant Pathology) Department of Entomology and Plant Pathology (August 2008 – June 2011)
   * -Morphological and Molecular Diagnostics of Plant Parasitic Nematodes
   * -Maintain Plant-Parasitic Nematode Cultures
   * -Cotton and Soybean Nematode Resistance Screening
   * -Small Plot Plant Pathology Research, Analysis, Field Pesticide/Fertilizer Application
   * -Maintain Greenhouse: Plant, Propagate, Climate, Water, Pesticide/Fertilizer Application
   * -Nematode, Fungal, Viral, and Bacteria Propagation and Inoculation (field and greenhouse)
-* Summer Internship in Corn Breeding 
-  * DuPont Pioneer, Union City, TN (May 2008 – August 2008)
+
+* **DuPont Pioneer**, Union City, TN (May 2008 – August 2008)
+  * Summer Internship in Corn Breeding 
 
 Skills
 ======
