@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+
 | Degree  | Minor | University | Year |
 | ----------- | -----------  | ----------- | ----------- |
 | Ph.D in Molecular Biology (Genomics) | Statistics | Mississippi State University | 2016 |
@@ -19,7 +20,7 @@ Education
 | B.S. in Molecular Biology | Chemistry | Murray State University | 2008 |
 | B.S. in Agronomy | Finance | Murray State University| 2008|
 
-Work and Research experience
+Current Work and Research experience
 ======
 * Systems Analyst Research IT Cyberinfrastructure
   * The Jackson Laboratory (Sept. 2021 – Present)
@@ -30,6 +31,10 @@ Work and Research experience
   * The Carpentries (Nov 2021 – Present)
 * Guest Editor. MDPI (Dec. 2021 – Present)
   * International Journal for Translational Medicine
+
+
+Previous Work and Research experience
+======
 * Associate Director of Bioinformatics, Molecular and Genomics Core Facility
   * Instructor (Faculty), Department of Pharmacology and Toxicology, School of Medicine
   * Instructor (Faculty), Department of Data Science
@@ -80,23 +85,6 @@ Skills
   * R
   * Python
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 Membership in Professional Societies
 ======
@@ -110,6 +98,7 @@ Membership in Professional Societies
 
 Service and Leadership
 ======
+
 | Role        | Organization | 
 | ----------- | -----------  |
 |Editorial Board|International Journal of Translational Medicine (MDPI)|
@@ -132,3 +121,24 @@ Honors and Awards
 * National Student Recognition Award (2007-2008) American Society of Agronomy, Crop Society of America, and Soil Science Society of America
 * Gillespie Agricultural Mechanics Award
 * Boy Scouts of America: Eagle Scout
+
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+<!---
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+-->
