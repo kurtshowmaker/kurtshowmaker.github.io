@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+#title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Ph.D in Molecular Biology (minor Statistics), Mississippi State University, 2016\
+M.S. in Plant Pathology (concentration Nematology), Mississippi State University, 2012\
+Certificate in Computational Biology, Mississippi State University, 2010\
+B.S. in Molecular Biology (minor Chemistry), Murray State University, 2008\
+B.S. in Agronomy (minor Finance), Murray State University, 2008\
+
 
 Work experience
 ======
