@@ -30,7 +30,7 @@ Associated Data: GenBank: ([CP029619.1](https://www.ncbi.nlm.nih.gov/nuccore/139
 
 **Xanthomonas citri pv. malvacearum strain MSCT genome sequencing and assembly**\
 Database (accession): NCBI Genome /NCBI Assembly (GCA_001719145.1)\
-Description: The genomic assembly of bacteria Xanthomonas citri pv. malvacearumstrain MSCT.\
+Description: The genomic assembly of bacteria Xanthomonas citri pv. malvacearum strain MSCT.\
 Causal agent of cotton bacterial blight.
 
 **Burkholderia pyrrocinia strain LYC2 genome sequencing and assembly**\
