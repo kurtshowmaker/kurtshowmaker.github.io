@@ -18,7 +18,6 @@ Current work
 * **Research Software Core Service:** helped establish the core and its cost-recovery model for cloud, research software, and GenAI services
 * **LIMS infrastructure:** Linux, PostgreSQL, cloud backups, certificate automation, monitoring, and patching
 * **HPC facilitation and training:** onboarding, consulting, and workshops on Introduction to HPC and Reproducible Research
-* **CLIA cyberinfrastructure:** established and administer the CLIA HPC systems and the DevOps SOP for compliant audit logging
 
 Community
 ------

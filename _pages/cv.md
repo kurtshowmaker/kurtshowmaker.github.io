@@ -28,7 +28,6 @@ Current Professional Positions
   * Research Software Core Service: helped establish the core in the institutional core-facility management system; developed cost-recovery chargeback for Cloud Platforms, Research IT software, and GenAI services
   * LIMS Infrastructure: administer production and test environments (Linux, PostgreSQL, cloud backups, certificate automation, monitoring, and patching)
   * HPC Facilitation and Training: onboard and consult with HPC users; provide just-in-time training in Introduction to HPC and Reproducible Research
-  * CLIA Cyberinfrastructure: established and administered the CLIA HPC systems and developed the DevOps SOP for compliant audit logging
 
 * **Certified Instructor**, The Carpentries (Nov. 2021 – Present)
   * Certified to instruct Software, Library, and Data Carpentry workshops
@@ -49,7 +48,7 @@ Current Professional Positions
 Previous Research and Professional Positions
 ======
 * **Campus Research Computing Consortium (CaRCC)**
-  * Researcher-Facing Steering Committee Member (through 2025); organized the monthly Researcher-Facing Call (over 100 participants)
+  * Researcher-Facing Steering Committee Member (2022 – 2025); organized the monthly Researcher-Facing Call (over 100 participants)
 
 * **Mississippi State University**
   * Adjunct Assistant Professor, Department of Biochemistry, Mol. Bio., Entomology, and Plant Path. (March 2020 – March 2023)
@@ -97,7 +96,6 @@ Skills
   * Cloud computing platforms
 * Research Infrastructure
   * Linux and PostgreSQL administration
-  * CLIA-compliant HPC
 
 
 Research Support
@@ -134,7 +132,7 @@ Service and Leadership
 | ----------- | -----------  | ----------- |
 |Editorial Board|International Journal of Translational Medicine (MDPI)|2021 – current|
 |Guest Editor   |Trends in Computational Methods and Cyberinfrastructure for Translational Medicine | |
-|Steering Committee Member|CaRCC Researcher-Facing Track|through 2025|
+|Steering Committee Member|CaRCC Researcher-Facing Track|2022 – 2025|
 |Ad hoc reviewer|Biology of Sex Differences|2019 – current|
 |Ad hoc reviewer|Physiological Genomics|2018 – current|
 |Ad hoc reviewer|Phytopathology, American Phytopathological Society|2017 – current|
